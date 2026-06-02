@@ -56,7 +56,8 @@ function esPerfumeArabe(producto){
 function detectarCategoria(producto){
     const categoria = limpiarTexto(producto.categoria).toUpperCase();
     const nombre = limpiarTexto(producto.nombre).toUpperCase();
-
+    if(categoria === "ESTUCHES") return "ESTUCHES";
+    if(nombre.includes("ESTUCHE")) return "ESTUCHES";
     if(nombre.includes("UNISEX")) return "UNISEX";
     if(nombre.includes("MUJER")) return "MUJER";
     if(nombre.includes("HOMBRE")) return "HOMBRE";
