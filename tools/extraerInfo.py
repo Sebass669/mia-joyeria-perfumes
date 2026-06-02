@@ -74,15 +74,6 @@ productos.extend(
 
 
 df = pd.DataFrame(productos)
-df.to_csv(
-    "productos.csv",
-    index=False,
-    encoding="utf-8-sig"
-)
-df.to_excel(
-    "producto.xlsx",
-    index=False
-)
 df.to_json(
     "productos.json",
     orient="records",

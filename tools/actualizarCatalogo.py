@@ -12,5 +12,5 @@ for script in scripts:
 
 print("Catálogo actualizado correctamente.")
 #git add .
-#git commit -m "agregue splash"
+#git commit -m "modularizar"
 #git push origin main

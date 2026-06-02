@@ -61,14 +61,18 @@ function detectarCategoria(producto){
     if(nombre.includes("UNISEX")) return "UNISEX";
     if(nombre.includes("MUJER")) return "MUJER";
     if(nombre.includes("HOMBRE")) return "HOMBRE";
+    if(categoria === "NIÑOS") return "NIÑOS";
+    if(categoria === "NINOS") return "NIÑOS";
 
     if([
         "HOMBRE",
         "MUJER",
         "UNISEX",
-        "ESTUCHES"
+        "ESTUCHES",
+        "NIÑOS",
+        "NINOS"
     ].includes(categoria))
-        return categoria;
+        return categoria === "NINOS" ? "NIÑOS" : categoria;
 
     return "UNISEX";
 }
@@ -138,7 +142,9 @@ function renderizarBloque(){
 
         card.innerHTML = `
             <div class="card-img">
-                <img src="${producto.imagen}" alt="${producto.nombre}" loading="lazy">
+                <a href="${producto.imagen}" target="_blank" rel="noopener">
+                    <img src="${producto.imagen}" alt="${producto.nombre}" loading="lazy">
+                </a>
             </div>
             <div class="info">
                 <h3>${producto.nombre}</h3>
