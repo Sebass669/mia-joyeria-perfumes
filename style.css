@@ -328,7 +328,9 @@ h2{
 .badge-arabe{
     background:#ead6bc;
 }
-
+.badge-splash{
+    background:#dce8f0;
+}
 .precio{
     color:var(--gold-dark);
     font-weight:800;

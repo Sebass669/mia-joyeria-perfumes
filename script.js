@@ -97,7 +97,7 @@ function aplicarFiltros(){
 
     productosFiltrados = productosOriginales.filter(producto => {
         const categoria = producto.categoriaFinal;
-        const coincideCategoria = categoriaActual === "TODOS" || categoria === categoriaActual || (categoriaActual === "ARABES" && producto.esArabe);
+        const coincideCategoria = categoriaActual === "TODOS" || categoria === categoriaActual || (categoriaActual === "ARABES" && producto.esArabe) || (categoriaActual === "SPLASH" && producto.esSplash);
         const contenido = limpiarTexto(`${producto.nombre} ${producto.precio} ${producto.categoriaFinal} ${producto.marcaArabe || ""} ${producto.esArabe ? "arabe arabes perfumes arabes" : ""}`);
         const coincideBusqueda = !texto || contenido.includes(texto);
 
@@ -108,6 +108,11 @@ function aplicarFiltros(){
     contenedor.innerHTML = "";
     renderizarBloque();
     activarBotonesCategoria();
+}
+
+function esSplash(producto){
+    const nombre = limpiarTexto(producto.nombre).toUpperCase();
+    return nombre.includes("SPLASH");
 }
 
 function renderizarBloque(){
@@ -129,6 +134,7 @@ function renderizarBloque(){
         const precio = formatearPrecio(producto.precio);
         const link = crearLinkWhatsApp(crearMensajeWhatsApp(producto));
         const badgeExtra = producto.esArabe ? `<span class="badge badge-arabe">Árabe</span>` : "";
+        const badgeSplash = producto.esSplash ? `<span class="badge badge-splash">Splash</span>` : "";
 
         card.innerHTML = `
             <div class="card-img">
@@ -140,6 +146,7 @@ function renderizarBloque(){
                     <p class="precio">${precio}</p>
                     <span class="badge">${categoria}</span>
                     ${badgeExtra}
+                    ${badgeSplash}
                 </div>
                 <a class="whatsapp-card" href="${link}" target="_blank" rel="noopener">Consultar</a>
             </div>
@@ -168,7 +175,8 @@ async function iniciarCatalogo(){
                 ...producto,
                 categoriaFinal: detectarCategoria(producto),
                 esArabe: Boolean(marcaArabe),
-                marcaArabe
+                marcaArabe,
+                esSplash: esSplash(producto)
             };
         });
 
