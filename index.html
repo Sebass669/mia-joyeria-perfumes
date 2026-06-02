@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mia Joyería y Boutique | Catálogo de perfumes</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="hero" id="inicio">
+        <nav class="nav">
+            <a class="brand" href="#inicio" aria-label="Volver al inicio">
+                <img src="logo.jpg" alt="Mia Joyería y Boutique">
+            </a>
+
+            <div class="nav-links">
+                <a href="#catalogo">Catálogo</a>
+                <a href="#categorias">Categorías</a>
+                <a href="#contacto">Contacto</a>
+            </div>
+        </nav>
+
+        <section class="hero-content">
+            <div class="hero-text">
+                <span class="eyebrow">Catálogo minorista</span>
+                <h1>Perfumes elegantes para todos los estilos</h1>
+                <p>
+                    Explorá fragancias para mujer, hombre y unisex. Elegí el perfume que te guste
+                    y consultá disponibilidad directamente por WhatsApp.
+                </p>
+
+                <div class="hero-actions">
+                    <a class="btn btn-primary" href="#catalogo">Ver catálogo</a>
+                    <a class="btn btn-secondary" id="whatsapp-general" href="#" target="_blank" rel="noopener">Consultar por WhatsApp</a>
+                </div>
+            </div>
+
+            <div class="hero-card">
+                <img src="portada1.jpg" alt="Perfumes destacados">
+            </div>
+        </section>
+    </header>
+
+    <main>
+        <section class="section intro" id="categorias">
+            <span class="eyebrow">Categorías</span>
+            <h2>Buscá según lo que necesitás</h2>
+
+            <div class="category-grid">
+                <button class="category-tile active" data-categoria="TODOS">
+                    <span>Todos</span>
+                    <small>Ver catálogo completo</small>
+                </button>
+                <button class="category-tile" data-categoria="HOMBRE">
+                    <span>Hombre</span>
+                    <small>Fragancias masculinas</small>
+                </button>
+                <button class="category-tile" data-categoria="MUJER">
+                    <span>Mujer</span>
+                    <small>Fragancias femeninas</small>
+                </button>
+                <button class="category-tile" data-categoria="UNISEX">
+                    <span>Unisex</span>
+                    <small>Para cualquier estilo</small>
+                </button>
+                <button class="category-tile" data-categoria="ARABES">
+                    <span>Árabes</span>
+                    <small>Casas árabes seleccionadas</small>
+                </button>
+            </div>
+        </section>
+
+        <section class="section catalog" id="catalogo">
+            <div class="catalog-header">
+                <div>
+                    <span class="eyebrow">Catálogo</span>
+                    <h2>Perfumes disponibles</h2>
+                    <p id="contador-productos">Cargando productos...</p>
+                </div>
+
+                <div class="search-box">
+                    <input type="search" id="busqueda" placeholder="Buscar perfume, marca o categoría..." autocomplete="off">
+                </div>
+            </div>
+
+            <div class="filters" aria-label="Filtros de categoría">
+                <button class="filter-btn active" data-categoria="TODOS">Todos</button>
+                <button class="filter-btn" data-categoria="HOMBRE">Hombre</button>
+                <button class="filter-btn" data-categoria="MUJER">Mujer</button>
+                <button class="filter-btn" data-categoria="UNISEX">Unisex</button>
+                <button class="filter-btn" data-categoria="ARABES">Árabes</button>
+            </div>
+
+            <div id="contenedor-productos" class="product-grid"></div>
+
+            <div class="load-more-wrap">
+                <button id="cargar-mas" class="btn btn-secondary" type="button">Cargar más</button>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer" id="contacto">
+        <div>
+            <p class="footer-title">Mia Joyería y Boutique</p>
+            <p class="footer-text">Perfumes, joyería, ropa y accesorios.</p>
+        </div>
+
+        <div class="footer-links">
+            <a id="whatsapp-footer" href="#" target="_blank" rel="noopener">WhatsApp</a>
+            <a href="https://www.tiktok.com/@joyeriamia23?_r=1&_t=ZS-968gs3DLOpJ" target="_blank" rel="noopener">TikTok</a>
+            <a href="https://www.instagram.com/miajoyeriaboutique?igsh=MWszODJ4MG41ZXU3bA%3D%3D&utm_source=qr" target="_blank" rel="noopener">Instagram</a>
+            <a href="https://www.facebook.com/share/1D22oCf1qH/?mibextid=wwXIfr" target="_blank" rel="noopener">Facebook</a>
+            <a href="https://maps.app.goo.gl/jEowAXSGhkbJRs2H9?g_st=ic" target="_blank" rel="noopener">Ver ubicación</a>
+        </div>
+    
+        <div class="horario-footer">
+            <p><strong>Horario de atención</strong></p>
+            <p>Lunes a Viernes: 10:00 a.m. - 4:00 p.m.</p>
+            <p>Sábados: 10:00 a.m. - 3:00 p.m.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
