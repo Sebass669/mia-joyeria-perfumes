@@ -13,6 +13,6 @@ for script in scripts:
 
 print("Catálogo actualizado correctamente.")
 #git add .
-#git commit -m "actualizacion de json"
+#git commit -m "version minimalista"
 #git push origin main
 #cambiar el boton de consultar
