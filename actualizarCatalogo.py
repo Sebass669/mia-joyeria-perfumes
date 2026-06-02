@@ -13,5 +13,6 @@ for script in scripts:
 
 print("Catálogo actualizado correctamente.")
 #git add .
-#git commit -m "spash + ninos"
+#git commit -m "actualizacion de json"
 #git push origin main
+#cambiar el boton de consultar
