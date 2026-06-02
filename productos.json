@@ -79,7 +79,7 @@
     },
     {
         "nombre":"212 VIP BLACK HOMBRE 100ML EDP CAROLINA HERRERA",
-        "precio":"₡47000.00",
+        "precio":"₡48000.00",
         "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/212-vip-black-hombre-100ml-edp-carolina-herrera.jpg",
         "categoria":"HOMBRE"
     },
@@ -2761,7 +2761,7 @@
     },
     {
         "nombre":"EROS FLAME HOMBRE 100ML EDP VERSACE",
-        "precio":"₡44000.00",
+        "precio":"₡42000.00",
         "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/eros-flame-hombre-100ml-edp-versace.jpg",
         "categoria":"HOMBRE"
     },
@@ -4435,7 +4435,7 @@
     },
     {
         "nombre":"ISSEY MIYAKE HOMBRE 200ML EDT ISSEY MIYAKE",
-        "precio":"₡39000.00",
+        "precio":"₡40000.00",
         "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/issey-miyake-hombre-200ml-edt-issey-miyake.jpg",
         "categoria":"HOMBRE"
     },
@@ -6031,7 +6031,7 @@
     },
     {
         "nombre":"ODYSSEY MARSHMALLOW MUJER 100ML EDP ARMAF",
-        "precio":"₡29000.00",
+        "precio":"₡26000.00",
         "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/odyssey-marshmallow-mujer-100ml-edp-armaf.jpg",
         "categoria":"HOMBRE"
     },
@@ -7393,7 +7393,7 @@
     },
     {
         "nombre":"STARWALKER HOMBRE 75ML EDT MONT BLANC",
-        "precio":"₡27000.00",
+        "precio":"₡26000.00",
         "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/starwalker-hombre-75ml-edt-mont-blanc.jpg",
         "categoria":"HOMBRE"
     },
@@ -12703,7 +12703,7 @@
     },
     {
         "nombre":"212 SEXY MUJER 100ML EDP CAROLINA HERRERA",
-        "precio":"₡49000.00",
+        "precio":"₡50000.00",
         "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/212-sexy-mujer-100ml-edp-carolina-herrera.jpg",
         "categoria":"MUJER"
     },
@@ -16179,12 +16179,6 @@
         "nombre":"HOT MUJER 100ML EDT BENETTON",
         "precio":"₡9000.00",
         "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/hot-mujer-100ml-edt-benetton.jpg",
-        "categoria":"MUJER"
-    },
-    {
-        "nombre":"HUGO CANTIMPLORA EXTREME MUJER 75ML EDP HUGO BOSS",
-        "precio":"₡29000.00",
-        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/hugo-cantimplora-extreme-mujer-75ml-edp-hugo-boss.jpg",
         "categoria":"MUJER"
     },
     {
@@ -20764,5 +20758,713 @@
         "precio":"₡26000.00",
         "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/arabes\/odyssey-artisto-red-edition-unisex-100ml-edp-armaf.png",
         "categoria":"UNISEX"
+    },
+    {
+        "nombre":"ESTUCHE AFNAN 9 AM DIVINE UNISEX 3PZS 100ML EDP + GEL DE BAÑO + DESODORANTE",
+        "precio":"₡38000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-afnan-9-am-divine-unisex-3pzs-100ml-edp-gel-de-bano-desodorante.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ANIMALE HOMBRE 3PZS 100ML EDT + AFTER SHAVE + GEL DE BAÑO",
+        "precio":"₡32000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-animale-hombre-3pzs-100ml-edt-after-shave-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ARMAF SILLAGE UNISEX 4PZS 105ML EDP – GEL DE BAÑO – SPLASH – SHAMPOO",
+        "precio":"₡30000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-armaf-sillage-unisex-4pzs-105ml-edp-gel-de-bano-splash-shampoo.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ARMANI GIO HOMBRE 2PZS 100ML EDT + DESODORANTE",
+        "precio":"₡63000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-armani-gio-hombre-2pzs-100ml-edt-desodorante.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE BHARARA BHARARA KING HOMBRE 4PZS 100ML EDP + GEL DE BAÑO + AFTER SHAVE + CREMA",
+        "precio":"₡48000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-bharara-bharara-king-hombre-4pzs-100ml-edp-gel-de-bano-after-shave-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE CALVIN KLEIN 4 MINIS HOMBRE 15ML CADA UNO ETERNITY – OBSESSION – CK ONE – ESCAPE",
+        "precio":"₡30000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-calvin-klein-4-minis-hombre-15ml-cada-uno-eternity-obsession-ck-one-escape.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE CAROLINA HERRERA 212 HEROES HOMBRE 2PZS 90ML EDT + GEL DE BAÑO",
+        "precio":"₡55000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-carolina-herrera-212-heroes-hombre-2pzs-90ml-edt-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE CAROLINA HERRERA 212 HOMBRE 2 PZS 100ML EDT + AFTER SHAVE",
+        "precio":"₡55000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-carolina-herrera-212-hombre-2-pzs-100ml-edt-after-shave.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE CAROLINA HERRERA BAD BOY HOMBRE 2PZS 100ML EDT + GEL DE DUCHA",
+        "precio":"₡57000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-carolina-herrera-bad-boy-hombre-2pzs-100ml-edt-gel-de-ducha.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE DIESEL PLUS PLUS CAJA LECHE HOMBRE 3PZS 75ML EDT + 30ML EDT + DESODORANTE",
+        "precio":"₡24000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-diesel-plus-plus-caja-leche-hombre-3pzs-75ml-edt-30ml-edt-desodorante.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE DOLCE & GABANNA LIGHT BLUE HOMBRE 2 PZS 125ML EDT + 40ML EDT",
+        "precio":"₡55000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-dolce-gabanna-light-blue-hombre-2-pzs-125ml-edt-40ml-edt.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE DOLCE & GABBANA K HOMBRE 3PZS 100ML EDT + 10ML EDT + AFTER SHAVE",
+        "precio":"₡59000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-dolce-gabbana-k-hombre-3pzs-100ml-edt-10ml-edt-after-shave.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE GIVENCHY GIVENCHY GENTLEMAN HOMBRE 2PZS 100ML EDT + SHAMPOO",
+        "precio":"₡46000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-givenchy-givenchy-gentleman-hombre-2pzs-100ml-edt-shampoo.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE GUESS GUESS HOMBRE 3PZS 100ML EDT + DESODORANTE + GEL DE BAÑO",
+        "precio":"₡30000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-guess-guess-hombre-3pzs-100ml-edt-desodorante-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE GUESS GUESS SEDUCTIVE HOMBRE 3PZS 100ML EDT  DESODORANTE + GEL DE BAÑO",
+        "precio":"₡31000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-guess-guess-seductive-hombre-3pzs-100ml-edt-desodorante-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE HUGO BOSS HUGO CANTIMPLORA HOMBRE 3PZS 125ML EDT + GEL DE BAÑO + DESODORANTE",
+        "precio":"₡47000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-hugo-boss-hugo-cantimplora-hombre-3pzs-125ml-edt-gel-de-bano-desodorante.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE HUGO BOSS THE SCENT HOMBRE 3PZS 100ML EDT + GEL DE BAÑO + DESODORANTE",
+        "precio":"₡46000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-hugo-boss-the-scent-hombre-3pzs-100ml-edt-gel-de-bano-desodorante.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ISSEY MIYAKE ISSY MIYAKE HOMBRE 3PZS 100ML EDT + 15ML EDT + GEL DE BAÑO",
+        "precio":"₡60000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-issey-miyake-issy-miyake-hombre-3pzs-100ml-edt-15ml-edt-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE JEAN PAUL GAULTIER JEAN PAUL PERFUME INTENSE HOMBRE 3PZS 125ML  EDP + 10ML + GEL DE DUCHA",
+        "precio":"₡73000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-jean-paul-gaultier-jean-paul-perfume-intense-hombre-3pzs-125ml-edp-10ml-gel-de-ducha.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE LATTAFA YARA TOUS 100ML EDP + PERFUME DE CABELLO + SPLASH YARA TOUS",
+        "precio":"₡32000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-lattafa-yara-tous-100ml-edp-perfume-de-cabello-splash-yara-tous.webp",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE LIZ CLAIBORNE CURVE BLACK HOMBRE 4 PZS 100ML EDT + DESODORANTE + GEL DE BAÑO + AFTER SHAVE",
+        "precio":"₡37000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-liz-claiborne-curve-black-hombre-4-pzs-100ml-edt-desodorante-gel-de-bano-after-shave.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE MOSCHINO TOY BOY HOMBRE 3PZS 100ML EDP + 10 ML + AFTER SHAVE + GEL DE BAÑO",
+        "precio":"₡42000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-moschino-toy-boy-hombre-3pzs-100ml-edp-10-ml-after-shave-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE MOSCHINO TOY BOY HOMBRE 4PZS 100ML EDP + 10 ML +  AFTER SHAVE + GEL DE BAÑO + AFTER SHAVE",
+        "precio":"₡45000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-moschino-toy-boy-hombre-4pzs-100ml-edp-10-ml-after-shave-gel-de-bano-after-shave.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ORIENTICA MINIS 5 ROYAL AMBER – ROYAL BLEU – VELVET GOLD – OUD SAFFRON – AMBER ROUGE",
+        "precio":"₡33000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-orientica-minis-5-royal-amber-royal-bleu-velvet-gold-oud-saffron-amber-rouge.webp",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ORIENTICA ORIENTICA AMBER ROUGE UNISEX 4PZS 80ML EDP + 10ML EDP + ATOMIZADOR + COSMETIQUERA",
+        "precio":"₡73000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-orientica-orientica-amber-rouge-unisex-4pzs-80ml-edp-10ml-edp-atomizador-cosmetiquera.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ORIENTICA ORIENTICA VELVET GOLD UNISEX 4PZS 80ML EDP + 10ML EDP + ATOMIZADOR + COSMETIQUERA",
+        "precio":"₡55000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-orientica-orientica-velvet-gold-unisex-4pzs-80ml-edp-10ml-edp-atomizador-cosmetiquera.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ORIENTICA OUD SAFFRON UNISEX 4PZS 80ML EDP + 10ML EDP + ATOMIZADOR + COSMETIQUERA",
+        "precio":"₡55000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-orientica-oud-saffron-unisex-4pzs-80ml-edp-10ml-edp-atomizador-cosmetiquera.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ORIENTICA ROYAL AMBER UNISEX 4PZS 100ML EDP + 7.5ML EDP + 10ML EDP + 10ML EDP",
+        "precio":"₡53000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-orientica-royal-amber-unisex-4pzs-100ml-edp-7-5ml-edp-10ml-edp-10ml-edp.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PACO RABANNE INVICTUS HOMBRE 2PZS 100ML EDT + 10ML EDT",
+        "precio":"₡55000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-paco-rabanne-invictus-hombre-2pzs-100ml-edt-10ml-edt.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PACO RABANNE PHANTOM HOMBRE 2PZS 100ML EDT + 10ML EDT",
+        "precio":"₡54000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-paco-rabanne-phantom-hombre-2pzs-100ml-edt-10ml-edt.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PACO RABANNE PURE XS HOMBRE 3PZS 100ML EDT + DESODORANTE + 10ML EDT",
+        "precio":"₡57000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-paco-rabanne-pure-xs-hombre-3pzs-100ml-edt-desodorante-10ml-edt.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PARIS HILTON PARIS HILTON HOMBRE 4PZS 100ML EDT + 10ML + DESODORANTE + GEL",
+        "precio":"₡28000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-paris-hilton-paris-hilton-hombre-4pzs-100ml-edt-10ml-desodorante-gel.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 18 HOMBRE 4PZS 100ML EDP + 7.5ML EDP + CREMA + GEL DE",
+        "precio":"₡32000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-perry-ellis-18-hombre-4pzs-100ml-edp-7-5ml-edp-crema-gel-de.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 360 BLACK CILINDRO HOMBRE 3PZS 100ML EDT +7.5ML EDT + SHOWER GEL",
+        "precio":"₡33000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-perry-ellis-360-black-cilindro-hombre-3pzs-100ml-edt-7-5ml-edt-shower-gel.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 360 RED HOMBRE 4PZS 100ML EDT + SPLASH 100ML + 30ML EDT + AFTER SHAVE",
+        "precio":"₡33000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-perry-ellis-360-red-hombre-4pzs-100ml-edt-splash-100ml-30ml-edt-after-shave.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 360 TRIO HOMBRE 3PZS 30ML EDT 360 TRAD + 30ML EDT 360 GREEN + 30ML EDT 360 RED",
+        "precio":"₡28000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-perry-ellis-360-trio-hombre-3pzs-30ml-edt-360-trad-30ml-edt-360-green-30ml-edt-360-red.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 360 VERY BLUE HOMBRE 4PZS 100ML EDT + 7.5ML + DESODORANTE + AFTER SHAVE",
+        "precio":"₡30000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-perry-ellis-360-very-blue-hombre-4pzs-100ml-edt-7-5ml-desodorante-after-shave.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS PERRY AQUA EXTREME HOMBRE 100ML EDT + 7.5ML EDT + DESODORANTE + GEL DE BAÑO",
+        "precio":"₡36000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-perry-ellis-perry-aqua-extreme-hombre-100ml-edt-7-5ml-edt-desodorante-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS RESERVA HOMBRE 3PZS 100ML EDT + 7.5ML EDT + AFTER SHAVE",
+        "precio":"₡26000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-perry-ellis-reserva-hombre-3pzs-100ml-edt-7-5ml-edt-after-shave.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE RALPH LAUREN POLO ROJO HOMBRE 2PZS 118ML EDT + 15ML EDT",
+        "precio":"₡54000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-ralph-lauren-polo-rojo-hombre-2pzs-118ml-edt-15ml-edt.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE RALPH LAUREN POLO VERDE 2PZS 118ML EDT + 15ML EDT",
+        "precio":"₡35000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-ralph-lauren-polo-verde-2pzs-118ml-edt-15ml-edt.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE DYLAN BLUE HOMBRE 3PZS 100ML EDT + 10ML EDT + MARICONERA",
+        "precio":"₡56000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-versace-dylan-blue-hombre-3pzs-100ml-edt-10ml-edt-mariconera.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE EROS FLAME HOMBRE 3PZS 100ML EDP + 10ML EDP + MARICONERA",
+        "precio":"₡64000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-versace-eros-flame-hombre-3pzs-100ml-edp-10ml-edp-mariconera.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE EROS PERFUME 3PZS 100ML PERFUME + 10ML EDP + GEL DE BAÑO",
+        "precio":"₡65000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-versace-eros-perfume-3pzs-100ml-perfume-10ml-edp-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE MAN EAU FRAICHE HOMBRE 3PZS 100ML EDT + 10ML EDT + DESODORANTE",
+        "precio":"₡60000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-versace-man-eau-fraiche-hombre-3pzs-100ml-edt-10ml-edt-desodorante.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE VERSACE POUR HOMME 3 PZS 100ML EDT + 10ML EDT + DESODORANTE",
+        "precio":"₡56000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/hombre\/estuche-versace-versace-pour-homme-3-pzs-100ml-edt-10ml-edt-desodorante.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE 5TH AVENIDA by Elizabeth Arden Mujer",
+        "precio":"₡27000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-5th-avenida-by-elizabeth-arden-mujer.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ARIANA GRANDE ARI MUJER 3PZS 100ML EDP + CREMA + SHOWER GEL",
+        "precio":"₡36000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-ariana-grande-ari-mujer-3pzs-100ml-edp-crema-shower-gel.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ARIANA GRANDE CLOUD MUJER 3PZS 100ML EDP + CREMA + GEL DE BAÑO",
+        "precio":"₡49000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-ariana-grande-cloud-mujer-3pzs-100ml-edp-crema-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ARIANA GRANDE MOONLIGHT MUJER 3PZS 100ML EDP + CREMA + GEL DE BAÑO",
+        "precio":"₡39000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-ariana-grande-moonlight-mujer-3pzs-100ml-edp-crema-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ARIANA GRANDE THANK YOU NEXT MUJER 3PZS 100ML + CREMA + GEL",
+        "precio":"₡39000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-ariana-grande-thank-you-next-mujer-3pzs-100ml-crema-gel.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ARMAF CLUB DE NUIT MUJER 4PZS 105ML EDP + SPLASH + CREMA + BODY SPRAY",
+        "precio":"₡42000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-armaf-club-de-nuit-mujer-4pzs-105ml-edp-splash-crema-body-spray.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE BRITNEY SPEARS FANTASY MUJER 3PZS 100ML EDP + CREMA + GEL DE BAÑO",
+        "precio":"₡29000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-britney-spears-fantasy-mujer-3pzs-100ml-edp-crema-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE CALVIN KLEIN CK ONE UNISEX 2PZS 100ML EDT + GEL DE BAÑO",
+        "precio":"₡30000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-calvin-klein-ck-one-unisex-2pzs-100ml-edt-gel-de-bano.webp",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE CAROLINA HERRERA 212 VIP ROSE MUJER 2PZS 80ML EDP + CREMA",
+        "precio":"₡69000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-carolina-herrera-212-vip-rose-mujer-2pzs-80ml-edp-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE DAVIDOFF COOL WATER MUJER 3PZS 100ML EDT + CREMA + GEL DE BAÑO",
+        "precio":"₡33000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-davidoff-cool-water-mujer-3pzs-100ml-edt-crema-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE DOLCE & GABBANA LIGHT BLUE MUJER 3PZS GRANDE 100ML EDT + 10ML EDT+ CREMA",
+        "precio":"₡48000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-dolce-gabbana-light-blue-mujer-3pzs-grande-100ml-edt-10ml-edt-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ELIZABETH ARDEN 5TH AVENUE MUJER 3PZS 125ML EDP + 2 CREMAS",
+        "precio":"₡35000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-elizabeth-arden-5th-avenue-mujer-3pzs-125ml-edp-2-cremas.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ELIZABETH ARDEN GREEN TEA MUJER 2PZS 100ML EDP + CREMA",
+        "precio":"₡21000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-elizabeth-arden-green-tea-mujer-2pzs-100ml-edp-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ELIZABETH ARDEN RED DOOR MUJER 3PZS 100ML + CREMA + GEL",
+        "precio":"₡41000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-elizabeth-arden-red-door-mujer-3pzs-100ml-crema-gel.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ELIZABETH ARDEN SUNFLOWERS MUJER 2PZS 100ML EDT + CREMA",
+        "precio":"₡33000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-elizabeth-arden-sunflowers-mujer-2pzs-100ml-edt-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ELIZABETH TAYLOR DIAMANTES BLANCOS MUJER 4PZS 100ML EDT + 10ML + CREMA + GEL DE BAÑO",
+        "precio":"₡33000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-elizabeth-taylor-diamantes-blancos-mujer-4pzs-100ml-edt-10ml-crema-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE GUESS GUESS GIRL BELLE MUJER 3PZS 100ML EDT + 15ML EDT + CREMA",
+        "precio":"₡32000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-guess-guess-girl-belle-mujer-3pzs-100ml-edt-15ml-edt-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE GUESS GUESS GOLD MUJER 3PZS 75ML EDT + 15ML EDT + CREMA",
+        "precio":"₡32000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-guess-guess-gold-mujer-3pzs-75ml-edt-15ml-edt-crema.webp",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE GUESS GUESS MUJER 4PZS 75ML EDP + 15ML EDP + CREMA + COSMETIQUERA",
+        "precio":"₡31000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-guess-guess-mujer-4pzs-75ml-edp-15ml-edp-crema-cosmetiquera.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE HEIRESS by Paris Hilton Heiress Mujer",
+        "precio":"₡30000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-heiress-by-paris-hilton-heiress-mujer.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ISSEY MIYAKE WOMAN by Issey Miyake",
+        "precio":"₡39000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-issey-miyake-woman-by-issey-miyake.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE JENNIFER LOPEZ GLOW MUJER 3PZS 100ML EDT + CREMA + SHOWER GEL",
+        "precio":"₡33000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-jennifer-lopez-glow-mujer-3pzs-100ml-edt-crema-shower-gel.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE JENNIFER LOPEZ LIVE LUXE MUJER 3PZS 100ML EDP + CREMA + GEL DE BAÑO",
+        "precio":"₡29000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-jennifer-lopez-live-luxe-mujer-3pzs-100ml-edp-crema-gel-de-bano.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE JENNIFER LOPEZ STILL MUJER 3PZS 100ML EDP + CREMA + SHOWER GEL",
+        "precio":"₡32000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-jennifer-lopez-still-mujer-3pzs-100ml-edp-crema-shower-gel.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE JESUS DEL POZO HALLOWEEN BLOSSOM MUJER 2PZS 100ML EDP + 30ML EDP",
+        "precio":"₡39000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-jesus-del-pozo-halloween-blossom-mujer-2pzs-100ml-edp-30ml-edp.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE LANCOME VIDA BELLA MUJER 4PZS 100ML EDP + 10ML EDP + CREMA + MASCARILLA",
+        "precio":"₡85000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-lancome-vida-bella-mujer-4pzs-100ml-edp-10ml-edp-crema-mascarilla.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE MARC JACOBS DAISY DREAM MUJER 3PZS 100ML EDT + 4ML EDT + CREMA",
+        "precio":"₡62000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-marc-jacobs-daisy-dream-mujer-3pzs-100ml-edt-4ml-edt-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE MOSCHINO TOY 2 BUBBLE MUJER 3PZS 100ML EDT + 10ML EDT + CREMA",
+        "precio":"₡45000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-moschino-toy-2-bubble-mujer-3pzs-100ml-edt-10ml-edt-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE MOSCHINO TOY 2 BUBBLE MUJER 4PZS 100ML EDT + 5ML EDT + CREMA + GEL DE BAÑO",
+        "precio":"₡53000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-moschino-toy-2-bubble-mujer-4pzs-100ml-edt-5ml-edt-crema-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE MOSCHINO TOY 2 MUJER 3PZS 100ML EDP + 10ML EDP + CREMA",
+        "precio":"₡48000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-moschino-toy-2-mujer-3pzs-100ml-edp-10ml-edp-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE MOSCHINO TOY 2 MUJER 4PZS 100ML EDP + 10ML EDP + CREMA + GEL",
+        "precio":"₡40000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-moschino-toy-2-mujer-4pzs-100ml-edp-10ml-edp-crema-gel.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE OSCAR DE LA RENTA VOLUPTE MUJER 2PZS 100ML EDT + SPLASH",
+        "precio":"₡36000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-oscar-de-la-renta-volupte-mujer-2pzs-100ml-edt-splash.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PACO RABANNE FAME MUJER 2PZS  80ML  EDP + CREMA",
+        "precio":"₡75000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-paco-rabanne-fame-mujer-2pzs-80ml-edp-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PACO RABANNE OLYMPEA MUJER 2PZS 80ML EDP + CREMA",
+        "precio":"₡65000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-paco-rabanne-olympea-mujer-2pzs-80ml-edp-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PARIS HILTON CAN CAN MUJER 4PZS 100ML EDP + 10ML EDP + CREMA + GEL DE BAÑO",
+        "precio":"₡32000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-paris-hilton-can-can-mujer-4pzs-100ml-edp-10ml-edp-crema-gel-de-bano.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PARIS HILTON GOLD RUSH MUJER 4PZS 100ML EDP + 6ML + GEL DE BAÑO + CREMA",
+        "precio":"₡39000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-paris-hilton-gold-rush-mujer-4pzs-100ml-edp-6ml-gel-de-bano-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PARIS HILTON PARIS HILTON MUJER 4PZS 100ML EDP + 10ML EDP +  CREMA + GEL DE BAÑO",
+        "precio":"₡30000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-paris-hilton-paris-hilton-mujer-4pzs-100ml-edp-10ml-edp-crema-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PARIS HILTON PLATINUM RUSH MUJER 4PZS 100ML EDP + 10 ML + GEL DE BAÑO + CREMA",
+        "precio":"₡32000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-paris-hilton-platinum-rush-mujer-4pzs-100ml-edp-10-ml-gel-de-bano-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PARIS HILTON ROSE RUSH MUJER 4PZS 100ML EDP + 10ML + GEL DE BAÑO + CREMA",
+        "precio":"₡32000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-paris-hilton-rose-rush-mujer-4pzs-100ml-edp-10ml-gel-de-bano-crema.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 18 ORQUID MUJER 4PZS 100ML EDT + SPLASH + CREMA + GEL DE BA;O",
+        "precio":"₡32000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-perry-ellis-18-orquid-mujer-4pzs-100ml-edt-splash-crema-gel-de-bao.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 360 CORAL CILINDRO MUJER 3PZS 100ML EDT + CREMA + 7.5 ML EDT",
+        "precio":"₡36000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-perry-ellis-360-coral-cilindro-mujer-3pzs-100ml-edt-crema-7-5-ml-edt.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 360 CORAL MUJER 4PZS 100ML EDP + 7.5ML EDP + CREMA + DESODORANTE",
+        "precio":"₡34000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-perry-ellis-360-coral-mujer-4pzs-100ml-edp-7-5ml-edp-crema-desodorante.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 360 MUJER 4PZS 100ML EDT + 7.5ML EDT + GEL DE BAÑO + SPLASH",
+        "precio":"₡32000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-perry-ellis-360-mujer-4pzs-100ml-edt-7-5ml-edt-gel-de-bano-splash.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 360 PURPLE CILINDRO MUJER 3PZS 100ML EDT + 7.5ML EDT + CREMA",
+        "precio":"₡29000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-perry-ellis-360-purple-cilindro-mujer-3pzs-100ml-edt-7-5ml-edt-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 360 PURPLE MUJER 4PZS 100ML EDP + 7.5ML EDP + CREMA + DESODORANTE",
+        "precio":"₡29000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-perry-ellis-360-purple-mujer-4pzs-100ml-edp-7-5ml-edp-crema-desodorante.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 360 RED MUJER 4 PZS 100ML + 7.5ML + GEL BAÑO + SPLASH",
+        "precio":"₡30000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-perry-ellis-360-red-mujer-4-pzs-100ml-7-5ml-gel-bano-splash.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 360 TRIO MUJER 3PZS 30ML EDT 360 TRAD + 30ML EDT 360 PURPLE + 30ML EDT 360 RED",
+        "precio":"₡28000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-perry-ellis-360-trio-mujer-3pzs-30ml-edt-360-trad-30ml-edt-360-purple-30ml-edt-360-red.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE Perry Ellis Perry 18 Mujer",
+        "precio":"₡32000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-perry-ellis-perry-18-mujer.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS VERY PINK MUJER 3PZS 100ML EDP + SPLASH + CREMA",
+        "precio":"₡32000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-perry-ellis-very-pink-mujer-3pzs-100ml-edp-splash-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE SHAKIRA SHAKIRA DANCE DIAMONDS MUJER 2PZS 80ML EDT + DESODORANTE",
+        "precio":"₡28000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-shakira-shakira-dance-diamonds-mujer-2pzs-80ml-edt-desodorante.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE TOUS TOUS TOUCH MUJER 2PZS 100ML EDT + COSMETIQUERA",
+        "precio":"₡46000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-tous-tous-touch-mujer-2pzs-100ml-edt-cosmetiquera.webp",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE BRIGHT CRYSTAL ABSOLU MUJER 4PZS 90ML EDP + GEL DE BAÑO + CREMA + COSMETIQUERA",
+        "precio":"₡55000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-versace-bright-crystal-absolu-mujer-4pzs-90ml-edp-gel-de-bano-crema-cosmetiquera.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE BRIGHT CRYSTAL MUJER 4PZS 90ML EDP + 5ML EDP + CREMA + GEL DE BAÑO",
+        "precio":"₡59000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-versace-bright-crystal-mujer-4pzs-90ml-edp-5ml-edp-crema-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE BRIGHT CRYSTAL MUJER 4PZS 90ML EDP + GEL DE BAÑO + CREMA + COSMETIQUERA",
+        "precio":"₡55000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-versace-bright-crystal-mujer-4pzs-90ml-edp-gel-de-bano-crema-cosmetiquera.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE CRYSTAL NOIR MUJER 4PZS 90ML EDT + 5ML EDT + CREMA + GEL DE BAÑO",
+        "precio":"₡59000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-versace-crystal-noir-mujer-4pzs-90ml-edt-5ml-edt-crema-gel-de-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE DYLAN BLUE MUJER 4PZS 90ML EDP + GEL DE BAÑO + CREMA + COSMETIQUERA",
+        "precio":"₡55000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-versace-dylan-blue-mujer-4pzs-90ml-edp-gel-de-bano-crema-cosmetiquera.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE DYLAN TURQUOISE MUJER 4PZS 100ML EDT + 5ML EDT + CREMA + GEL",
+        "precio":"₡55000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-versace-dylan-turquoise-mujer-4pzs-100ml-edt-5ml-edt-crema-gel.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE DYLAN TURQUOISE MUJER 4PZS 90ML EDP + GEL DE BAÑO + CREMA + COSMETIQUERA",
+        "precio":"₡55000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-versace-dylan-turquoise-mujer-4pzs-90ml-edp-gel-de-bano-crema-cosmetiquera.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE YELLOW DIAMONDS MUJER 4PZS 90ML EDP + 5ML EDP + GEL DE BAÑO + CREMA",
+        "precio":"₡53000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-versace-yellow-diamonds-mujer-4pzs-90ml-edp-5ml-edp-gel-de-bano-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VICTORIA S SECRET BOMBSHELL MUJER 4PZS EDP 100ML +7ML + CREMA + GEL BAÑO",
+        "precio":"₡70000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/mujer\/estuche-victoria-s-secret-bombshell-mujer-4pzs-edp-100ml-7ml-crema-gel-bano.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ARMAF TAG HIM HOMBRE 4PZS 100ML EDP + GEL DE BAÑO +SHAMPOO + DESODORANTE",
+        "precio":"₡35000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/products\/placeholder.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ARMAF EL CIELO UNISEX 4PZS 100ML EDP + SPLASH + GEL DE BAÑO + SHAMPOO",
+        "precio":"₡30000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/products\/placeholder.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 360 VERY BLUE CILINDRO HOMBRE 3PZS 100ML EDT + AFTER SHAVE + 7.5ML",
+        "precio":"₡29000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/products\/placeholder.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 18 FUEGO HOMBRE 4PZS 100ML EDT + DESODORANTE + GEL DE BAÑO + AFTER SHAVE",
+        "precio":"₡36000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/products\/placeholder.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE JESUS DEL POZO HALLOWEEN HOMBRE 4PZS 125ML EDT + 10ML EDT + GEL DE BAÑO + AFTER SHAVE",
+        "precio":"₡33000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/ofertas\/estuche-jesus-del-pozo-halloween-hombre-4pzs-125ml-edt-10ml-edt-gel-de-bano-after-shave.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE LIZ CLAIBORNE CURVE HOMBRE 4PZS 125ML COLG + 7.5ML + GEL DE BAÑO + AFTER SHAVE",
+        "precio":"₡34000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/ofertas\/estuche-liz-claiborne-curve-hombre-4pzs-125ml-colg-7-5ml-gel-de-bano-after-shave.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE ARMAF TAG MUJER 4PZS 100ML EDT + CREMA SPLASH + DESODORANTE",
+        "precio":"₡38000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/ofertas\/estuche-armaf-tag-mujer-4pzs-100ml-edt-crema-splash-desodorante.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE JESUS DEL POZO HALLOWEEN BLUE DROP MUJER 3PZS 100ML EDT + 30ML EDT + 4.5ML EDT",
+        "precio":"₡33000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/ofertas\/estuche-jesus-del-pozo-halloween-blue-drop-mujer-3pzs-100ml-edt-30ml-edt-4-5ml-edt.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE JESUS DEL POZO HALLOWEEN MUJER 4PZS 100ML EDT + 4.5ML EDT + CREMA + GEL DE BAÑO",
+        "precio":"₡34000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/ofertas\/estuche-jesus-del-pozo-halloween-mujer-4pzs-100ml-edt-4-5ml-edt-crema-gel-de-bano.png",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PARIS HILTON DAZZLE MUJER 4PZS 125ML EDP + 10ML + GEL DE BAÑO + CREMA",
+        "precio":"₡34000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/ofertas\/estuche-paris-hilton-dazzle-mujer-4pzs-125ml-edp-10ml-gel-de-bano-crema.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE PERRY ELLIS 360 HOMBRE 4PZS 100ML EDP + 7.5ML EDP + CREMA + GEL DE",
+        "precio":"₡28000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/ofertas\/estuche-perry-ellis-360-hombre-4pzs-100ml-edp-7-5ml-edp-crema-gel-de.jpg",
+        "categoria":"ESTUCHES"
+    },
+    {
+        "nombre":"ESTUCHE VERSACE DYLAN PURPLE MUJER 4PZS 100ML EDP + CREMA + GEL DE BAÑO + COSMETIQUERA",
+        "precio":"₡59000.00",
+        "imagen":"https:\/\/3pspglobal.s3.us-east-2.amazonaws.com\/assets\/images\/ofertas\/estuche-versace-dylan-purple-mujer-4pzs-100ml-edp-crema-gel-de-bano-cosmetiquera.jpg",
+        "categoria":"ESTUCHES"
     }
 ]
