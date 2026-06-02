@@ -2,16 +2,16 @@ import json
 
 PRODUCTOS_NINOS = [
     {
-        "nombre": "Perfumes para niños - Imagen 1",
-        "precio": "Consultar precio",
-        "imagen": "ninos1.jpg",
+        "nombre": "TUBBEES",
+        "precio": "₡9000.00",
+        "imagen": "assets/ninos1.jpg",
         "categoria": "NIÑOS",
         "tipoEspecial": "imagenGrande"
     },
     {
-        "nombre": "Perfumes para niños - Imagen 2",
-        "precio": "Consultar precio",
-        "imagen": "ninos2.jpg",
+        "nombre": "TUBBEES",
+        "precio": "₡11000.00",
+        "imagen": "assets/ninos2.jpg",
         "categoria": "NIÑOS",
         "tipoEspecial": "imagenGrande"
     }

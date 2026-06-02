@@ -2,8 +2,9 @@ import subprocess
 
 scripts = [
     "tools/extraerInfo.py",
-    "tools/ajustarPrecios.py",
-    "tools/agregarNinos.py"
+    "tools/cambiarPrecios.py",
+    "tools/agregarNinos.py",
+    "tools/agregarSplashManual.py"
 ]
 
 for script in scripts:
@@ -12,5 +13,5 @@ for script in scripts:
 
 print("Catálogo actualizado correctamente.")
 #git add .
-#git commit -m "modularizar"
+#git commit -m "ninos"
 #git push origin main

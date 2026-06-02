@@ -1,5 +1,12 @@
 [
     {
+        "nombre": "VICTORIA'S SECRET SPLASH",
+        "precio": "₡10000.00",
+        "imagen": "assets/splash1.jpg",
+        "categoria": "MUJER",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
         "nombre": "# 4711 HOMBRE 100ML EDC MAURER AND WIRTZ",
         "precio": "₡15000.00",
         "imagen": "https://3pspglobal.s3.us-east-2.amazonaws.com/assets/images/products/4711-hombre-100ml-edc-maurer-and-wirtz-g-242f28d478.jpg",
@@ -21466,5 +21473,19 @@
         "precio": "₡59000.00",
         "imagen": "https://3pspglobal.s3.us-east-2.amazonaws.com/assets/images/ofertas/estuche-versace-dylan-purple-mujer-4pzs-100ml-edp-crema-gel-de-bano-cosmetiquera.jpg",
         "categoria": "ESTUCHES"
+    },
+    {
+        "nombre": "TUBBEES",
+        "precio": "₡9000.00",
+        "imagen": "assets/ninos1.jpg",
+        "categoria": "NIÑOS",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
+        "nombre": "TUBBEES",
+        "precio": "₡11000.00",
+        "imagen": "assets/ninos2.jpg",
+        "categoria": "NIÑOS",
+        "tipoEspecial": "imagenGrande"
     }
 ]
