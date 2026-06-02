@@ -89,6 +89,3 @@ df.to_json(
     force_ascii=False,
     indent=4
 )
-#git add .
-#git commit -m "nuevo json"
-#git push origin main
