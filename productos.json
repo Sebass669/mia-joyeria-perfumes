@@ -1,12 +1,5 @@
 [
     {
-        "nombre": "VICTORIA'S SECRET SPLASH",
-        "precio": "₡10000.00",
-        "imagen": "assets/splash1.jpg",
-        "categoria": "MUJER",
-        "tipoEspecial": "imagenGrande"
-    },
-    {
         "nombre": "# 4711 HOMBRE 100ML EDC MAURER AND WIRTZ",
         "precio": "₡15000.00",
         "imagen": "https://3pspglobal.s3.us-east-2.amazonaws.com/assets/images/products/4711-hombre-100ml-edc-maurer-and-wirtz-g-242f28d478.jpg",
@@ -7844,7 +7837,7 @@
     },
     {
         "nombre": "TOM FORD NOIR EXTREME HOMBRE 100ML EDP TOM FORD",
-        "precio": "₡215000.00",
+        "precio": "₡225000.00",
         "imagen": "https://3pspglobal.s3.us-east-2.amazonaws.com/assets/images/hombre/tom-ford-noir-extreme-hombre-100ml-edp-tom-ford.png",
         "categoria": "HOMBRE"
     },
@@ -9088,12 +9081,6 @@
         "nombre": "PRADA LUNA ROSA OCEAN HOMBRE 100ML PERFUME PRADA",
         "precio": "₡56000.00",
         "imagen": "https://3pspglobal.s3.us-east-2.amazonaws.com/assets/images/products/prada-luna-rosa-ocean-hombre-100ml-perfume-prada.png",
-        "categoria": "HOMBRE"
-    },
-    {
-        "nombre": "PRADA LUNA ROSA CARBON HOMBRE 100ML EDP PRADA",
-        "precio": "₡50000.00",
-        "imagen": "https://3pspglobal.s3.us-east-2.amazonaws.com/assets/images/products/prada-luna-rosa-carbon-hombre-100ml-edp-prada.png",
         "categoria": "HOMBRE"
     },
     {
@@ -21476,14 +21463,14 @@
     },
     {
         "nombre": "TUBBEES",
-        "precio": "₡9000.00",
+        "precio": "₡11000.00",
         "imagen": "assets/ninos1.jpg",
         "categoria": "NIÑOS",
         "tipoEspecial": "imagenGrande"
     },
     {
         "nombre": "TUBBEES",
-        "precio": "₡11000.00",
+        "precio": "₡9000.00",
         "imagen": "assets/ninos2.jpg",
         "categoria": "NIÑOS",
         "tipoEspecial": "imagenGrande"
