@@ -3,14 +3,14 @@ import json
 PRODUCTOS_NINOS = [
     {
         "nombre": "TUBBEES",
-        "precio": "₡9000.00",
+        "precio": "₡11000.00",
         "imagen": "assets/ninos1.jpg",
         "categoria": "NIÑOS",
         "tipoEspecial": "imagenGrande"
     },
     {
         "nombre": "TUBBEES",
-        "precio": "₡11000.00",
+        "precio": "₡9000.00",
         "imagen": "assets/ninos2.jpg",
         "categoria": "NIÑOS",
         "tipoEspecial": "imagenGrande"
