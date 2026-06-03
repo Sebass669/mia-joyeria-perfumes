@@ -63,6 +63,11 @@ function detectarCategoria(producto){
     if(nombre.includes("HOMBRE")) return "HOMBRE";
     if(categoria === "NIÑOS") return "NIÑOS";
     if(categoria === "NINOS") return "NIÑOS";
+    if(categoria === "VICTORIA'S SECRET") return "VICTORIA'S SECRET";
+    if(categoria === "VICTORIA SECRET") return "VICTORIA'S SECRET";
+    if(categoria === "VICTORIAS SECRET") return "VICTORIA'S SECRET";
+    if(categoria === "BATH AND BODY WORKS") return "BATH AND BODY WORKS";
+    if(categoria === "BATH & BODY WORKS") return "BATH AND BODY WORKS";
 
     if([
         "HOMBRE",
@@ -70,9 +75,18 @@ function detectarCategoria(producto){
         "UNISEX",
         "ESTUCHES",
         "NIÑOS",
-        "NINOS"
-    ].includes(categoria))
-        return categoria === "NINOS" ? "NIÑOS" : categoria;
+        "NINOS",
+        "VICTORIA'S SECRET",
+        "VICTORIA SECRET",
+        "VICTORIAS SECRET",
+        "BATH AND BODY WORKS",
+        "BATH & BODY WORKS"
+    ].includes(categoria)){
+        if(categoria === "NINOS") return "NIÑOS";
+        if(categoria === "VICTORIA SECRET" || categoria === "VICTORIAS SECRET") return "VICTORIA'S SECRET";
+        if(categoria === "BATH & BODY WORKS") return "BATH AND BODY WORKS";
+        return categoria;
+    }
 
     return "UNISEX";
 }
@@ -101,8 +115,8 @@ function aplicarFiltros(){
 
     productosFiltrados = productosOriginales.filter(producto => {
         const categoria = producto.categoriaFinal;
-        const coincideCategoria = categoriaActual === "TODOS" || categoria === categoriaActual || (categoriaActual === "ARABES" && producto.esArabe) || (categoriaActual === "SPLASH" && producto.esSplash);
-        const contenido = limpiarTexto(`${producto.nombre} ${producto.precio} ${producto.categoriaFinal} ${producto.marcaArabe || ""} ${producto.esArabe ? "arabe arabes perfumes arabes" : ""}`);
+        const coincideCategoria = categoriaActual === "TODOS" || categoria === categoriaActual || (categoriaActual === "ARABES" && producto.esArabe);
+        const contenido = limpiarTexto(`${producto.nombre} ${producto.precio} ${producto.categoriaFinal} ${producto.categoria || ""} ${producto.marcaArabe || ""} ${producto.esArabe ? "arabe arabes perfumes arabes" : ""}`);
         const coincideBusqueda = !texto || contenido.includes(texto);
 
         return coincideCategoria && coincideBusqueda;
@@ -112,11 +126,6 @@ function aplicarFiltros(){
     contenedor.innerHTML = "";
     renderizarBloque();
     activarBotonesCategoria();
-}
-
-function esSplash(producto){
-    const nombre = limpiarTexto(producto.nombre).toUpperCase();
-    return nombre.includes("SPLASH");
 }
 
 function renderizarBloque(){
@@ -138,7 +147,6 @@ function renderizarBloque(){
         const precio = formatearPrecio(producto.precio);
         const link = crearLinkWhatsApp(crearMensajeWhatsApp(producto));
         const badgeExtra = producto.esArabe ? `<span class="badge badge-arabe">Árabe</span>` : "";
-        const badgeSplash = producto.esSplash ? `<span class="badge badge-splash">Splash</span>` : "";
 
         card.innerHTML = `
             <div class="card-img">
@@ -152,7 +160,6 @@ function renderizarBloque(){
                     <p class="precio">${precio}</p>
                     <span class="badge">${categoria}</span>
                     ${badgeExtra}
-                    ${badgeSplash}
                 </div>
                 <a class="whatsapp-card" href="${link}" target="_blank" rel="noopener">Consultar</a>
             </div>
@@ -181,8 +188,7 @@ async function iniciarCatalogo(){
                 ...producto,
                 categoriaFinal: detectarCategoria(producto),
                 esArabe: Boolean(marcaArabe),
-                marcaArabe,
-                esSplash: esSplash(producto)
+                marcaArabe
             };
         });
 

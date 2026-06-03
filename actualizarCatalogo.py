@@ -4,7 +4,7 @@ scripts = [
     "tools/extraerInfo.py",
     "tools/cambiarPrecios.py",
     "tools/agregarNinos.py",
-    "tools/agregarSplashManual.py"
+    "tools/agregarVictoriaBath.py"
 ]
 
 for script in scripts:
