@@ -1,5 +1,89 @@
 [
     {
+        "nombre": "Estuche Mini",
+        "precio": "₡13500.00",
+        "imagen": "imagers/victoria_bath/producto_fila_2_1.png",
+        "categoria": "VICTORIA'S SECRET",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
+        "nombre": "Estuche Mini",
+        "precio": "₡13500.00",
+        "imagen": "imagers/victoria_bath/producto_fila_4_2.png",
+        "categoria": "VICTORIA'S SECRET",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
+        "nombre": "Estuche Mini",
+        "precio": "₡13500.00",
+        "imagen": "imagers/victoria_bath/producto_fila_6_3.png",
+        "categoria": "VICTORIA'S SECRET",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
+        "nombre": "Estuche Mini",
+        "precio": "₡13500.00",
+        "imagen": "imagers/victoria_bath/producto_fila_8_4.png",
+        "categoria": "VICTORIA'S SECRET",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
+        "nombre": "Body y Crema Pure Seduction",
+        "precio": "₡19000.00",
+        "imagen": "imagers/victoria_bath/producto_fila_11_5.jpg",
+        "categoria": "VICTORIA'S SECRET",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
+        "nombre": "Body y Crema Love Spell",
+        "precio": "₡19000.00",
+        "imagen": "imagers/victoria_bath/producto_fila_13_6.jpg",
+        "categoria": "VICTORIA'S SECRET",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
+        "nombre": "Body y Crema Aqua Kiss",
+        "precio": "₡19000.00",
+        "imagen": "imagers/victoria_bath/producto_fila_15_7.jpg",
+        "categoria": "VICTORIA'S SECRET",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
+        "nombre": "Body y Crema Velvet Petals",
+        "precio": "₡19000.00",
+        "imagen": "imagers/victoria_bath/producto_fila_17_8.jpg",
+        "categoria": "VICTORIA'S SECRET",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
+        "nombre": "Bodys Mist Mini",
+        "precio": "₡6500.00",
+        "imagen": "imagers/victoria_bath/producto_fila_26_10.webp",
+        "categoria": "BATH AND BODY WORKS",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
+        "nombre": "Body y Crema",
+        "precio": "₡9500.00",
+        "imagen": "imagers/victoria_bath/producto_fila_38_13.jpg",
+        "categoria": "VICTORIA'S SECRET",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
+        "nombre": "Bodys Mist",
+        "precio": "₡8500.00",
+        "imagen": "imagers/victoria_bath/producto_fila_43_14.jpg",
+        "categoria": "BATH AND BODY WORKS",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
+        "nombre": "Cremas",
+        "precio": "₡8500.00",
+        "imagen": "imagers/victoria_bath/producto_fila_48_15.jpg",
+        "categoria": "BATH AND BODY WORKS",
+        "tipoEspecial": "imagenGrande"
+    },
+    {
         "nombre": "# 4711 HOMBRE 100ML EDC MAURER AND WIRTZ",
         "precio": "₡15000.00",
         "imagen": "https://3pspglobal.s3.us-east-2.amazonaws.com/assets/images/products/4711-hombre-100ml-edc-maurer-and-wirtz-g-242f28d478.jpg",
